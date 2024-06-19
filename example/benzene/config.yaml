@@ -1,0 +1,12 @@
+conformer_mode: search
+list_numIons:
+- 1
+- 2
+- 3
+- 4
+model_name: PFP
+num_conformers: 5
+num_structures: 10
+root_folder: ./example/benzene/
+sg_mode: sg95
+smiles: c1ccccc1

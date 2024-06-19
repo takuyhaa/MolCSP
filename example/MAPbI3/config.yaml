@@ -1,0 +1,10 @@
+conformer_mode: predefined
+list_numIons:
+- 2
+- 2
+model_name: PFP
+num_conformers: None
+num_structures: 10
+root_folder: ./example/MAPbI3/
+sg_mode: all
+smiles: None
